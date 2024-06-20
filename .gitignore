@@ -1,2 +1,8 @@
 .vscode
-./*/*.dSYM
+# Ignore all .dSYM directories and their contents
+*.dSYM/
+*.dSYM/**
+
+# Ignore Contents directories within any .dSYM directories
+*.dSYM/Contents/
+*.dSYM/Contents/**
