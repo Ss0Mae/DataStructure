@@ -1,4 +1,7 @@
 .vscode
+*.exec
+*.exe
+*.out
 # Ignore all .dSYM directories and their contents
 *.dSYM/
 *.dSYM/**
