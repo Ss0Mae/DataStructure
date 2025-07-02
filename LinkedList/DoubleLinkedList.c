@@ -111,19 +111,3 @@ int main()
     return 0;
 }
 
-Host github.com
-   HostName github.com
-   User git
-   IdentityFile ~/.ssh/id_rsa_me
-   UseKeychain yes
-   AddKeysToAgent yes
- 
-# --- Sourcetree Generated ---
-Host Ss0Mae-GitHub
-    HostName github.com
-    User Ss0Mae
-    PreferredAuthentications publickey
-    IdentityFile /Users/ssomae/.ssh/Ss0Mae-GitHub
-    UseKeychain yes
-    AddKeysToAgent yes
-# ----------------------------
